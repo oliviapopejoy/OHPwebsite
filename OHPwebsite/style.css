@@ -1,0 +1,39 @@
+body {
+    margin: 32px;
+   
+  }
+  
+  .sans {
+    font-family: sans-serif;
+  }
+  
+  .header {
+    width: 320px;
+    padding: 10px;
+    border: 1px solid gray;
+    color: hotpink;
+    margin-top: 10px;
+    font-size: 30;
+    text-align: center;
+  }
+  
+  .navParent {
+    width: 320px;
+    padding: 30px;
+    border: 3px solid gray;
+    font-size: 10px;
+    color: hotpink;
+  }
+  .navParent:hover {
+    stroke-width: 6px;
+    text-shadow: 1px 0px 20px black;
+  }
+  
+  .comingsoon {
+    width: 250px;
+    padding: 10px;
+    border: 2px solid gray;
+    margin-top: 10px;
+    font-size: 15px;
+  }
+  
